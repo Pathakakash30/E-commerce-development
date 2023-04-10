@@ -1,4 +1,4 @@
-# E-commerce-development
+# Tech Store E-commerce
 
 TechZoo store in which you can buy tech gadgets which is build using MERN.
 
@@ -12,7 +12,15 @@ JWT token varification,
 
 PayPal payment, 
 
-upload image, 
+MongoDb for database,
+
+Admin Login,
+
+Admin side features (Orders, add products, delete product, edit product, Mark as delivered)
+
+upload image using Multer, 
+
+Live stocks of Products,
 
 pagination of product list, 
 
